@@ -1,0 +1,28 @@
+# React / Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+.env
+.env.*
+
+# Spring Boot / Java
+target/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+neurotrack-frontend - Copy/
+
+neurotrack-frontend - Copy/
